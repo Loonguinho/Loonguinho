@@ -2,4 +2,4 @@
 
 ## RPA Developer at moment!
 
-<p>Go, C# and Game Developement enthusiastic</p>
+<p>GoLang and Game Developement enthusiastic</p>
